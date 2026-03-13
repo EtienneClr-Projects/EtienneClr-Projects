@@ -29,9 +29,9 @@ Here's the repo of the current year robot code:
 <img src="https://img.shields.io/badge/github-champi_robot_ros-blue">
 </a>
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="ressources/eurobot/robot.jpg"> | <img width="1604" src="ressources/eurobot/detail.jpg">|<img width="1604" src="ressources/eurobot/cad1.png">|
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="ressources/eurobot/robot2025.jpg"> | <img width="1604" src="ressources/eurobot/robot.jpg"> | <img width="1604" src="ressources/eurobot/detail.jpg">|<img width="1604" src="ressources/eurobot/cad1.png">|
 
 
 
